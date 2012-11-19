@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eac0ceee-a251-4ec1-b0ee-e97573ee0cd8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sass_stdlib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/geekhub/css/general.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/geekhub/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banners/osmbanner1.png" afterPath="$PROJECT_DIR$/images/banners/osmbanner1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banners/osmbanner2.png" afterPath="$PROJECT_DIR$/images/banners/osmbanner2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banners/shop-ad-books.jpg" afterPath="$PROJECT_DIR$/images/banners/shop-ad-books.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banners/shop-ad.jpg" afterPath="$PROJECT_DIR$/images/banners/shop-ad.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banners/white.png" afterPath="$PROJECT_DIR$/images/banners/white.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/headers/blue-flower.jpg" afterPath="$PROJECT_DIR$/images/headers/blue-flower.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/headers/maple.jpg" afterPath="$PROJECT_DIR$/images/headers/maple.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/headers/raindrops.jpg" afterPath="$PROJECT_DIR$/images/headers/raindrops.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/headers/walden-pond.jpg" afterPath="$PROJECT_DIR$/images/headers/walden-pond.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/headers/windows.jpg" afterPath="$PROJECT_DIR$/images/headers/windows.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/joomla_black.gif" afterPath="$PROJECT_DIR$/images/joomla_black.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/joomla_green.gif" afterPath="$PROJECT_DIR$/images/joomla_green.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/joomla_logo_black.jpg" afterPath="$PROJECT_DIR$/images/joomla_logo_black.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/powered_by.png" afterPath="$PROJECT_DIR$/images/powered_by.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/fruitshop/apple.jpg" afterPath="$PROJECT_DIR$/images/sampledata/fruitshop/apple.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/fruitshop/bananas_2.jpg" afterPath="$PROJECT_DIR$/images/sampledata/fruitshop/bananas_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/fruitshop/fruits.gif" afterPath="$PROJECT_DIR$/images/sampledata/fruitshop/fruits.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/fruitshop/tamarind.jpg" afterPath="$PROJECT_DIR$/images/sampledata/fruitshop/tamarind.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/animals/180px_koala_ag1.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/animals/180px_koala_ag1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/animals/180px_wobbegong.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/animals/180px_wobbegong.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/animals/200px_phyllopteryx_taeniolatus1.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/animals/200px_phyllopteryx_taeniolatus1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/animals/220px_spottedquoll_2005_seanmcclean.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/animals/220px_spottedquoll_2005_seanmcclean.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/animals/789px_spottedquoll_2005_seanmcclean.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/animals/789px_spottedquoll_2005_seanmcclean.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/animals/800px_koala_ag1.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/animals/800px_koala_ag1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/animals/800px_phyllopteryx_taeniolatus1.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/animals/800px_phyllopteryx_taeniolatus1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/animals/800px_wobbegong.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/animals/800px_wobbegong.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/banner_cradle.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/banner_cradle.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/landscape/120px_pinnacles_western_australia.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/landscape/120px_pinnacles_western_australia.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/landscape/120px_rainforest_bluemountainsnsw.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/landscape/120px_rainforest_bluemountainsnsw.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/landscape/180px_ormiston_pound.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/landscape/180px_ormiston_pound.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/landscape/250px_cradle_mountain_seen_from_barn_bluff.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/landscape/250px_cradle_mountain_seen_from_barn_bluff.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/landscape/727px_rainforest_bluemountainsnsw.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/landscape/727px_rainforest_bluemountainsnsw.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/landscape/800px_cradle_mountain_seen_from_barn_bluff.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/landscape/800px_cradle_mountain_seen_from_barn_bluff.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/landscape/800px_ormiston_pound.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/landscape/800px_ormiston_pound.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/landscape/800px_pinnacles_western_australia.jpg" afterPath="$PROJECT_DIR$/images/sampledata/parks/landscape/800px_pinnacles_western_australia.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/parks.gif" afterPath="$PROJECT_DIR$/images/sampledata/parks/parks.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/favicon.ico" afterPath="$PROJECT_DIR$/templates/beez3/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/all_bg.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/all_bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/arrow.png" afterPath="$PROJECT_DIR$/templates/beez3/images/arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/arrow2_grey.png" afterPath="$PROJECT_DIR$/templates/beez3/images/arrow2_grey.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/arrow_white_grey.png" afterPath="$PROJECT_DIR$/templates/beez3/images/arrow_white_grey.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/blog_more.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/blog_more.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/blog_more_hover.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/blog_more_hover.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/close.png" afterPath="$PROJECT_DIR$/templates/beez3/images/close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/content_bg.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/content_bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/footer_bg.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/footer_bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/footer_bg.png" afterPath="$PROJECT_DIR$/templates/beez3/images/footer_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/header-bg.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/header-bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/minus.png" afterPath="$PROJECT_DIR$/templates/beez3/images/minus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/arrow1.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/arrow1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/arrow1_rtl.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/arrow1_rtl.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/arrow2.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/arrow2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/arrow2_grey.png" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/arrow2_grey.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/arrow2_rtl.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/arrow2_rtl.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/arrow_nav.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/arrow_nav.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/arrow_small.png" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/arrow_small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/arrow_small_rtl.png" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/arrow_small_rtl.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/blog_more.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/blog_more.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/box.png" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/box.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/box1.png" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/box1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/grey_bg.png" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/grey_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/headingback.png" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/headingback.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/karo.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/karo.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/level4.png" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/level4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/nav_level1_a.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/nav_level1_a.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/nav_level_1.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/nav_level_1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/pfeil.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/pfeil.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/readmore_arrow.png" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/readmore_arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/searchbutton.png" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/searchbutton.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/tabs.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/tabs.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nav_level_1.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/nav_level_1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/news.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/news.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/arrow2_grey.jpg" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/arrow2_grey.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/arrow2_grey.png" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/arrow2_grey.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/bg2.png" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/bg2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/button.png" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/dot.png" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/dot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/ecke.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/ecke.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/footer.jpg" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/footer.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/grey_bg.png" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/grey_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/navi_active.png" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/navi_active.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/personal2.png" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/personal2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/readmore_arrow.png" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/readmore_arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/readmore_arrow_hover.png" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/readmore_arrow_hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/tabs_back.png" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/tabs_back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/plus.png" afterPath="$PROJECT_DIR$/templates/beez3/images/plus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/req.png" afterPath="$PROJECT_DIR$/templates/beez3/images/req.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/slider_minus.png" afterPath="$PROJECT_DIR$/templates/beez3/images/slider_minus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/slider_minus_rtl.png" afterPath="$PROJECT_DIR$/templates/beez3/images/slider_minus_rtl.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/slider_plus.png" afterPath="$PROJECT_DIR$/templates/beez3/images/slider_plus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/slider_plus_rtl.png" afterPath="$PROJECT_DIR$/templates/beez3/images/slider_plus_rtl.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/arrow.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/arrow_rtl.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/arrow_rtl.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/calendar.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/calendar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/j_button2_blank.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/j_button2_blank.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/j_button2_image.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/j_button2_image.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/j_button2_left.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/j_button2_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/j_button2_pagebreak.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/j_button2_pagebreak.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/j_button2_readmore.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/j_button2_readmore.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/notice-alert.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/notice-alert.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/notice-alert_rtl.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/notice-alert_rtl.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/notice-info.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/notice-info.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/notice-info_rtl.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/notice-info_rtl.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/notice-note.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/notice-note.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/notice-note_rtl.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/notice-note_rtl.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/selector-arrow.png" afterPath="$PROJECT_DIR$/templates/beez3/images/system/selector-arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/table_footer.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/table_footer.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/trans.gif" afterPath="$PROJECT_DIR$/templates/beez3/images/trans.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/template_preview.png" afterPath="$PROJECT_DIR$/templates/beez3/template_preview.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/template_thumbnail.png" afterPath="$PROJECT_DIR$/templates/beez3/template_thumbnail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/favicon.ico" afterPath="$PROJECT_DIR$/templates/protostar/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/images/logo.png" afterPath="$PROJECT_DIR$/templates/protostar/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/images/system/rating_star.png" afterPath="$PROJECT_DIR$/templates/protostar/images/system/rating_star.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/images/system/rating_star_blank.png" afterPath="$PROJECT_DIR$/templates/protostar/images/system/rating_star_blank.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/images/system/sort_asc.png" afterPath="$PROJECT_DIR$/templates/protostar/images/system/sort_asc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/images/system/sort_desc.png" afterPath="$PROJECT_DIR$/templates/protostar/images/system/sort_desc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/img/glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/templates/protostar/img/glyphicons-halflings-white.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/img/glyphicons-halflings.png" afterPath="$PROJECT_DIR$/templates/protostar/img/glyphicons-halflings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/template_preview.png" afterPath="$PROJECT_DIR$/templates/protostar/template_preview.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/template_thumbnail.png" afterPath="$PROJECT_DIR$/templates/protostar/template_thumbnail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/images/calendar.png" afterPath="$PROJECT_DIR$/templates/system/images/calendar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/images/j_button2_blank.png" afterPath="$PROJECT_DIR$/templates/system/images/j_button2_blank.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/images/j_button2_image.png" afterPath="$PROJECT_DIR$/templates/system/images/j_button2_image.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/images/j_button2_left.png" afterPath="$PROJECT_DIR$/templates/system/images/j_button2_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/images/j_button2_pagebreak.png" afterPath="$PROJECT_DIR$/templates/system/images/j_button2_pagebreak.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/images/j_button2_readmore.png" afterPath="$PROJECT_DIR$/templates/system/images/j_button2_readmore.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/images/j_button2_right.png" afterPath="$PROJECT_DIR$/templates/system/images/j_button2_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/images/selector-arrow.png" afterPath="$PROJECT_DIR$/templates/system/images/selector-arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/configuration.php" afterPath="$PROJECT_DIR$/configuration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/banners/index.html" afterPath="$PROJECT_DIR$/images/banners/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/index.html" afterPath="$PROJECT_DIR$/images/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/fruitshop/index.html" afterPath="$PROJECT_DIR$/images/sampledata/fruitshop/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/index.html" afterPath="$PROJECT_DIR$/images/sampledata/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/animals/index.html" afterPath="$PROJECT_DIR$/images/sampledata/parks/animals/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/index.html" afterPath="$PROJECT_DIR$/images/sampledata/parks/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sampledata/parks/landscape/index.html" afterPath="$PROJECT_DIR$/images/sampledata/parks/landscape/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_contact.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_contact.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_content.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_content.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_finder.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_finder.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_mailto.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_mailto.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_media.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_media.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_messages.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_messages.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_newsfeeds.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_newsfeeds.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_search.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_search.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_users.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_users.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_weblinks.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_weblinks.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.com_wrapper.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.com_wrapper.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.files_joomla.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.files_joomla.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.finder_cli.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.finder_cli.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.lib_joomla.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.lib_joomla.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.lib_joomla.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.lib_joomla.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.lib_phpmailer.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.lib_phpmailer.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.lib_phputf8.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.lib_phputf8.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.lib_simplepie.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.lib_simplepie.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.localise.php" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.localise.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_archive.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_archive.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_archive.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_archive.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_categories.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_categories.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_categories.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_categories.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_category.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_category.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_category.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_category.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_latest.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_latest.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_latest.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_latest.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_news.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_news.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_news.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_news.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_popular.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_popular.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_popular.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_articles_popular.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_banners.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_banners.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_banners.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_banners.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_breadcrumbs.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_breadcrumbs.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_breadcrumbs.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_breadcrumbs.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_custom.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_custom.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_custom.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_custom.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_feed.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_feed.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_feed.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_feed.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_finder.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_finder.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_finder.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_finder.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_footer.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_footer.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_footer.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_footer.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_languages.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_languages.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_languages.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_languages.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_login.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_login.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_login.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_login.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_menu.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_menu.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_menu.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_menu.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_random_image.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_random_image.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_random_image.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_random_image.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_related_items.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_related_items.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_related_items.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_related_items.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_search.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_search.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_search.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_search.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_stats.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_stats.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_stats.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_stats.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_syndicate.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_syndicate.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_syndicate.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_syndicate.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_users_latest.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_users_latest.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_users_latest.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_users_latest.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_weblinks.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_weblinks.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_weblinks.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_weblinks.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_whosonline.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_whosonline.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_whosonline.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_whosonline.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_wrapper.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_wrapper.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_wrapper.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_wrapper.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.tpl_beez3.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.tpl_beez3.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.tpl_beez3.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.tpl_beez3.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.tpl_protostar.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.tpl_protostar.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.tpl_protostar.sys.ini" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.tpl_protostar.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/en-GB.xml" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/en-GB/index.html" afterPath="$PROJECT_DIR$/language/en-GB/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/index.html" afterPath="$PROJECT_DIR$/language/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/language/overrides/index.html" afterPath="$PROJECT_DIR$/language/overrides/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/component.php" afterPath="$PROJECT_DIR$/templates/beez3/component.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/general.css" afterPath="$PROJECT_DIR$/templates/beez3/css/general.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/ie7only.css" afterPath="$PROJECT_DIR$/templates/beez3/css/ie7only.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/ieonly.css" afterPath="$PROJECT_DIR$/templates/beez3/css/ieonly.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/index.html" afterPath="$PROJECT_DIR$/templates/beez3/css/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/layout.css" afterPath="$PROJECT_DIR$/templates/beez3/css/layout.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/nature.css" afterPath="$PROJECT_DIR$/templates/beez3/css/nature.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/nature_rtl.css" afterPath="$PROJECT_DIR$/templates/beez3/css/nature_rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/personal.css" afterPath="$PROJECT_DIR$/templates/beez3/css/personal.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/personal_rtl.css" afterPath="$PROJECT_DIR$/templates/beez3/css/personal_rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/position.css" afterPath="$PROJECT_DIR$/templates/beez3/css/position.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/print.css" afterPath="$PROJECT_DIR$/templates/beez3/css/print.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/red.css" afterPath="$PROJECT_DIR$/templates/beez3/css/red.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/template.css" afterPath="$PROJECT_DIR$/templates/beez3/css/template.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/template_rtl.css" afterPath="$PROJECT_DIR$/templates/beez3/css/template_rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/turq.css" afterPath="$PROJECT_DIR$/templates/beez3/css/turq.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/css/turq.less" afterPath="$PROJECT_DIR$/templates/beez3/css/turq.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/error.php" afterPath="$PROJECT_DIR$/templates/beez3/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/categories/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/categories/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/categories/default_items.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/categories/default_items.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/categories/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/categories/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/category/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/category/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/category/default_children.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/category/default_children.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/category/default_items.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/category/default_items.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/category/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/category/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/default_address.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/default_address.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/default_articles.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/default_articles.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/default_form.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/default_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/default_links.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/default_links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/default_profile.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/default_profile.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/encyclopedia.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/encyclopedia.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/contact/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_contact/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_contact/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/archive/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/archive/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/archive/default_items.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/archive/default_items.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/archive/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/archive/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/article/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/article/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/article/default_links.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/article/default_links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/article/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/article/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/categories/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/categories/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/categories/default_items.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/categories/default_items.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/categories/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/categories/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/category/blog.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/category/blog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/category/blog_children.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/category/blog_children.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/category/blog_item.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/category/blog_item.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/category/blog_links.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/category/blog_links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/category/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/category/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/category/default_articles.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/category/default_articles.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/category/default_children.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/category/default_children.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/category/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/category/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/featured/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/featured/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/featured/default_item.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/featured/default_item.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/featured/default_links.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/featured/default_links.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/featured/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/featured/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_content/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_content/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/categories/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/categories/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/categories/default_items.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/categories/default_items.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/categories/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/categories/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/category/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/category/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/category/default_children.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/category/default_children.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/category/default_items.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/category/default_items.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/category/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/category/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_newsfeeds/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/categories/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/categories/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/categories/default_items.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/categories/default_items.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/categories/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/categories/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/category/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/category/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/category/default_children.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/category/default_children.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/category/default_items.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/category/default_items.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/category/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/category/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/form/edit.php" afterPath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/form/edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/form/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/form/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/com_weblinks/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/mod_breadcrumbs/default.php" afterPath="$PROJECT_DIR$/templates/beez3/html/mod_breadcrumbs/default.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/mod_breadcrumbs/index.html" afterPath="$PROJECT_DIR$/templates/beez3/html/mod_breadcrumbs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/html/modules.php" afterPath="$PROJECT_DIR$/templates/beez3/html/modules.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/index.html" afterPath="$PROJECT_DIR$/templates/beez3/images/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/nature/index.html" afterPath="$PROJECT_DIR$/templates/beez3/images/nature/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/personal/index.html" afterPath="$PROJECT_DIR$/templates/beez3/images/personal/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/images/system/index.html" afterPath="$PROJECT_DIR$/templates/beez3/images/system/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/index.html" afterPath="$PROJECT_DIR$/templates/beez3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/index.php" afterPath="$PROJECT_DIR$/templates/beez3/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/javascript/hide.js" afterPath="$PROJECT_DIR$/templates/beez3/javascript/hide.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/javascript/index.html" afterPath="$PROJECT_DIR$/templates/beez3/javascript/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/javascript/md_stylechanger.js" afterPath="$PROJECT_DIR$/templates/beez3/javascript/md_stylechanger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/javascript/respond.js" afterPath="$PROJECT_DIR$/templates/beez3/javascript/respond.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/javascript/respond.src.js" afterPath="$PROJECT_DIR$/templates/beez3/javascript/respond.src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/jsstrings.php" afterPath="$PROJECT_DIR$/templates/beez3/jsstrings.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/language/en-GB/en-GB.tpl_beez3.ini" afterPath="$PROJECT_DIR$/templates/beez3/language/en-GB/en-GB.tpl_beez3.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/language/en-GB/en-GB.tpl_beez3.sys.ini" afterPath="$PROJECT_DIR$/templates/beez3/language/en-GB/en-GB.tpl_beez3.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/language/en-GB/index.html" afterPath="$PROJECT_DIR$/templates/beez3/language/en-GB/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/language/index.html" afterPath="$PROJECT_DIR$/templates/beez3/language/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/beez3/templateDetails.xml" afterPath="$PROJECT_DIR$/templates/beez3/templateDetails.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/component.php" afterPath="$PROJECT_DIR$/templates/protostar/component.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/css/index.html" afterPath="$PROJECT_DIR$/templates/protostar/css/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/css/template.css" afterPath="$PROJECT_DIR$/templates/protostar/css/template.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/error.php" afterPath="$PROJECT_DIR$/templates/protostar/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/html/editor_content.css" afterPath="$PROJECT_DIR$/templates/protostar/html/editor_content.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/html/index.html" afterPath="$PROJECT_DIR$/templates/protostar/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/html/modules.php" afterPath="$PROJECT_DIR$/templates/protostar/html/modules.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/html/pagination.php" afterPath="$PROJECT_DIR$/templates/protostar/html/pagination.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/images/index.html" afterPath="$PROJECT_DIR$/templates/protostar/images/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/img/index.html" afterPath="$PROJECT_DIR$/templates/protostar/img/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/index.php" afterPath="$PROJECT_DIR$/templates/protostar/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/js/index.html" afterPath="$PROJECT_DIR$/templates/protostar/js/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/language/en-GB/en-GB.tpl_protostar.ini" afterPath="$PROJECT_DIR$/templates/protostar/language/en-GB/en-GB.tpl_protostar.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/language/en-GB/en-GB.tpl_protostar.sys.ini" afterPath="$PROJECT_DIR$/templates/protostar/language/en-GB/en-GB.tpl_protostar.sys.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/language/en-GB/index.html" afterPath="$PROJECT_DIR$/templates/protostar/language/en-GB/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/language/index.html" afterPath="$PROJECT_DIR$/templates/protostar/language/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/less/icomoon.less" afterPath="$PROJECT_DIR$/templates/protostar/less/icomoon.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/less/index.html" afterPath="$PROJECT_DIR$/templates/protostar/less/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/less/template.less" afterPath="$PROJECT_DIR$/templates/protostar/less/template.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/less/variables.less" afterPath="$PROJECT_DIR$/templates/protostar/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/protostar/templateDetails.xml" afterPath="$PROJECT_DIR$/templates/protostar/templateDetails.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/component.php" afterPath="$PROJECT_DIR$/templates/system/component.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/editor.css" afterPath="$PROJECT_DIR$/templates/system/css/editor.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/error.css" afterPath="$PROJECT_DIR$/templates/system/css/error.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/error_rtl.css" afterPath="$PROJECT_DIR$/templates/system/css/error_rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/general.css" afterPath="$PROJECT_DIR$/templates/system/css/general.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/index.html" afterPath="$PROJECT_DIR$/templates/system/css/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/offline.css" afterPath="$PROJECT_DIR$/templates/system/css/offline.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/offline_rtl.css" afterPath="$PROJECT_DIR$/templates/system/css/offline_rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/system.css" afterPath="$PROJECT_DIR$/templates/system/css/system.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/css/toolbar.css" afterPath="$PROJECT_DIR$/templates/system/css/toolbar.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/error.php" afterPath="$PROJECT_DIR$/templates/system/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/html/index.html" afterPath="$PROJECT_DIR$/templates/system/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/html/modules.php" afterPath="$PROJECT_DIR$/templates/system/html/modules.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/images/index.html" afterPath="$PROJECT_DIR$/templates/system/images/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/index.html" afterPath="$PROJECT_DIR$/templates/system/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/index.php" afterPath="$PROJECT_DIR$/templates/system/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/system/offline.php" afterPath="$PROJECT_DIR$/templates/system/offline.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/index.html" afterPath="$PROJECT_DIR$/tmp/index.html" />
+    </list>
+    <ignored path="irish.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/geekhub/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="67" selection-start="1412" selection-end="1412" vertical-scroll-proportion="-21.041666">
+              <folding>
+                <element signature="n#style#0;n#jdoc:include#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="modules.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/geekhub/html/modules.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="275" selection-end="662" vertical-scroll-proportion="-3.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_old.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/geekhub/index_old.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="220" column="0" selection-start="8949" selection-end="8949" vertical-scroll-proportion="-32.791668">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="general.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/geekhub/css/general.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="171" column="26" selection-start="3197" selection-end="3197" vertical-scroll-proportion="0.419244">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/geekhub/html/com_content/category/blog.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="7" selection-start="765" selection-end="766" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/templates/geekhub/html/com_content/category/blog.php" />
+        <option value="$PROJECT_DIR$/templates/geekhub/html/modules.php" />
+        <option value="$PROJECT_DIR$/templates/geekhub/index.php" />
+        <option value="$PROJECT_DIR$/templates/geekhub/index_old.php" />
+        <option value="$PROJECT_DIR$/templates/geekhub/html/asdasda.php" />
+        <option value="$PROJECT_DIR$/templates/geekhub/css/general.css" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1856" />
+    <option name="height" value="1085" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="geekhub" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="irish" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eac0ceee-a251-4ec1-b0ee-e97573ee0cd8" name="Default" comment="" />
+      <created>1352751298441</created>
+      <updated>1352751298441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1856" height="1085" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26274943" sideWeight="0.67096776" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/geekhub/index_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="65" selection-start="6706" selection-end="6779" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/geekhub/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="595" column="30" selection-start="12393" selection-end="12393" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/geekhub/html/com_content/category/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="7" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/geekhub/images/banner.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/geekhub/html/com_content/category/blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="7" selection-start="765" selection-end="766" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_menu/mod_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_custom/mod_custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/geekhub/templateDetails.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="40" selection-start="1188" selection-end="1728" vertical-scroll-proportion="0.65758294">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_menu/tmpl/default_url.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/mod_menu/tmpl/default.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="24" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.19512194">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/geekhub/html/modules.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="275" selection-end="662" vertical-scroll-proportion="-3.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/geekhub/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="67" selection-start="1412" selection-end="1412" vertical-scroll-proportion="-21.041666">
+          <folding>
+            <element signature="n#style#0;n#jdoc:include#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/geekhub/html/asdasda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="0" selection-end="788" vertical-scroll-proportion="0.45731708">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#dd#0;n#dl#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/geekhub/index_old.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="220" column="0" selection-start="8949" selection-end="8949" vertical-scroll-proportion="-32.791668">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/geekhub/css/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="171" column="26" selection-start="3197" selection-end="3197" vertical-scroll-proportion="0.419244">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

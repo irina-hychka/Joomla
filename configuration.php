@@ -49,12 +49,18 @@ class JConfig {
 	public $MetaVersion = '0';
 	public $robots = '';
 	public $sef = '1';
-	public $sef_rewrite = '0';
-	public $sef_suffix = '0';
-	public $unicodeslugs = '0';
+	public $sef_rewrite = '1';
+	public $sef_suffix = '1';
+	public $unicodeslugs = '1';
 	public $feed_limit = '10';
 	public $log_path = '/var/www/irish/logs';
 	public $tmp_path = '/var/www/irish/tmp';
 	public $lifetime = '15';
 	public $session_handler = 'database';
+	public $MetaRights = '';
+	public $sitename_pagetitles = '0';
+	public $force_ssl = '0';
+	public $feed_email = 'author';
+	public $cookie_domain = '';
+	public $cookie_path = '';
 }
